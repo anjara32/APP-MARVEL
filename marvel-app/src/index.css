@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial; background:#f8f9fb; color:#111; }
+button { padding: 8px 10px; border-radius:6px; border:1px solid #ccc; background:#fff; cursor:pointer; }
+button[disabled] { opacity: 0.6; cursor: not-allowed; }

@@ -1,0 +1,23 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Spider-Man",
+      "description": "Héros agile doté du sens d'araignée.",
+      "thumbnail": "/images/spiderman.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man",
+      "description": "Génie milliardaire en armure.",
+      "thumbnail": "/images/ironman.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Captain Marvel",
+      "description": "Puissance cosmique et vol.",
+      "thumbnail": "/images/captainmarvel.jpg"
+    }
+  ],
+  "favorites": []
+}
